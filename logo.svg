@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.0mm"
+   height="9.0mm"
+   viewBox="0 0 27.0 9.0"
+   version="1.1"
+   id="svg1718"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/tom/private/thorne/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1712" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="47.640339"
+     inkscape:cy="21.407651"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g2468"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="1389"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1715">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g2454">
+    <rect
+       x="0"
+       y="0"
+       width="27.0"
+       height="9.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect2452" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g2456" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g2458" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g2460" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g2462" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g2464" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g2466" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g2468">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.15149px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.228788"
+       x="0.42445844"
+       y="7.5597696"
+       id="text907"
+       transform="scale(1.0380401,0.96335392)"><tspan
+         sodipodi:role="line"
+         id="tspan905"
+         x="0.42445844"
+         y="7.5597696"
+         style="stroke-width:0.228788">🌵</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.28085px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0873302"
+       x="8.73032"
+       y="1.8413556"
+       id="text915"
+       transform="scale(1.1847436,0.84406449)"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="8.73032"
+         y="1.8413556"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.28085px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0873302">a split keyboard with</tspan><tspan
+         sodipodi:role="line"
+         x="8.73032"
+         y="3.4424183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.28085px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0873302"
+         id="tspan917">3x6 column staggered</tspan><tspan
+         sodipodi:role="line"
+         x="8.73032"
+         y="5.0434804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.28085px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0873302"
+         id="tspan919">keys and 3 thumb keys</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96848px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.232897"
+       x="9.1116467"
+       y="9.4494705"
+       id="text911"
+       transform="scale(1.1360502,0.8802428)"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="9.1116467"
+         y="9.4494705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.96848px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.232897">thorne</tspan></text>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g2470" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g2472" />
+</svg>
